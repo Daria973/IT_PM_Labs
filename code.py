@@ -230,3 +230,4 @@ if __name__ == "__main__":
     root.title("Прогноз погоди")
     app = App(root)
     root.mainloop()
+    print("Hello!")
