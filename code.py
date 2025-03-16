@@ -230,8 +230,4 @@ if __name__ == "__main__":
     root.title("Прогноз погоди")
     app = App(root)
     root.mainloop()
-<<<<<<< HEAD
     print("Hello world!")
-=======
-    print("Hello!")
->>>>>>> new_branch
