@@ -35,5 +35,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['D:\\Навчання\\3 курс 2 сем\\Управління ІТ проектами\\Icon_weather.png'],
+    icon=['D:\\Навчання\\3 курс 2 сем\\Управління ІТ проектами\\icon_weather.ico'],
 )
