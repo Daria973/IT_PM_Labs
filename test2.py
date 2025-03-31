@@ -1,6 +1,6 @@
 import unittest
 import tkinter as tk
-from main import WeatherForecast
+from code import WeatherForecast  # type: ignore
 
 class TestWeatherApp(unittest.TestCase):
 
