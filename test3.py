@@ -1,5 +1,5 @@
 import unittest
-from main import ClothingRecommendation
+from code import ClothingRecommendation  # type: ignore
 
 class TestWeatherApp(unittest.TestCase):
 
